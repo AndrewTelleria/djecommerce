@@ -12,6 +12,7 @@ pycodestyle = "==2.5.0"
 pytz = "==2018.5"
 sqlparse = "==0.2.4"
 Django = "==2.2.10"
+django-allauth = "*"
 
 [requires]
 python_version = "3.7"
